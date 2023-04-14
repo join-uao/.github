@@ -1,4 +1,4 @@
-# UniversalAutomation.org features requests
+# UniversalAutomation.org features requests collection
 
 ![Alt text](https://universalautomation.org/app/themes/UniversalAutomation/build/images/logo.svg?id=a1a2950c226477a79ca24ae6c3e1929c)
 
