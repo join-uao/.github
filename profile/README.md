@@ -1,4 +1,4 @@
-# UniversalAutomation.org features requests collection
+# UniversalAutomation.org
 
 ![Alt text](https://universalautomation.org/app/themes/UniversalAutomation/build/images/logo.svg?id=a1a2950c226477a79ca24ae6c3e1929c)
 
@@ -9,7 +9,7 @@
 
 UniversalAutomation.Org manages using shared-source principles, a runtime execution engine based on the IEC 61499 standard.
 
-This github site is to collect the features request linked with the IEC 61499 runtime execution engine.
+This github site is to collect the features request and questions linked with the IEC 61499 runtime execution engine.
 
 **IEC 61499 introduces several new concepts in industrial automation:**
 
